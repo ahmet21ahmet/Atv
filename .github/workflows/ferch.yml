@@ -1,25 +1,48 @@
-name: Fetch HTML
+# Bu iş akışının adı
+name: Fetch HTML and Commit
 
+# İş akışının ne zaman çalışacağını belirler
 on:
-  workflow_dispatch:  # Manuel tetikleme
+  workflow_dispatch: # Manuel olarak Actions sekmesinden tetiklemeyi sağlar
+  schedule:
+    - cron: '0 4 * * 1' # Her Pazartesi sabaha karşı 4'te otomatik çalışır (isteğe bağlı)
 
 jobs:
-  fetch-html:
+  fetch-and-commit:
+    # İşin çalışacağı sanal sunucuyu belirler
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      # 1. Adım: Repodaki kodları sanal sunucuya indirir
+      - name: Depoyu Kopyala
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      # 2. Adım: Python'ı kurar
+      - name: Python Kurulumu
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      # 3. Adım: Gerekli Python kütüphanelerini ve Playwright tarayıcılarını kurar
+      - name: Bağımlılıkları Yükle
         run: |
-          pip install requests playwright
-          playwright install
+          pip install playwright
+          playwright install --with-deps
 
-      - name: Run Python script
+      # 4. Adım: Python betiğini çalıştırarak HTML dosyasını oluşturur
+      - name: Kazıma Betiğini Çalıştır
         run: python a.py
+
+      # 5. Adım: Oluşturulan dosyayı depoya commit'ler ve push'lar
+      - name: Değişiklikleri Depoya Kaydet
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add diziyou_playwright.html
+          # Sadece bir değişiklik varsa commit at, boş commit'leri engelle
+          if ! git diff --staged --quiet; then
+            git commit -m "Otomatik Güncelleme: diziyou HTML içeriği yenilendi"
+            git push
+          else
+            echo "Kaydedilecek yeni bir değişiklik bulunamadı."
+          fi
