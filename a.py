@@ -31,7 +31,7 @@ async def main():
         print(html)
 
         # İstersen dosyaya kaydet
-        with open("dizibox_playwright.html", "w", encoding="utf-8") as f:
+        with open("diziyou_playwright.html", "w", encoding="utf-8") as f:
             f.write(html)
 
         await browser.close()
