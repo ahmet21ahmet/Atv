@@ -1,7 +1,7 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-URL = "https://www.dizibox.live/"
+URL = "https://www.diziyou16.com/"
 
 async def main():
     async with async_playwright() as p:
