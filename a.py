@@ -1,7 +1,7 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-URL = "https://salamistv15.online/"
+URL = "https://84padisahbettv.com/"
 
 async def main():
     async with async_playwright() as p:
