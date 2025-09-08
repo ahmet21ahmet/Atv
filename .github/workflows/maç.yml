@@ -1,0 +1,61 @@
+# Bu dosya, GitHub Actions kullanarak yayın linklerini otomatik olarak çekip
+# depodaki bir dosyayı güncellemek için tasarlanmıştır.
+# Dosya Yolu: .github/workflows/ci_workflow.yml
+
+name: Canlı Yayın Linklerini Otomatik Güncelle
+
+# Bu otomasyon ne zaman çalışacak?
+on:
+  # 1. Ana (main) dala her kod gönderildiğinde
+  push:
+    branches: [ "main" ]
+  # 2. Her saat başı otomatik olarak
+  schedule:
+    - cron: '0 * * * *'
+  # 3. GitHub arayüzünden "Run workflow" butonu ile manuel olarak
+  workflow_dispatch:
+
+jobs:
+  link-cekme-ve-guncelleme:
+    # Görevin çalışacağı sanal makine türü
+    runs-on: ubuntu-latest
+
+    # Depoya yazma iznini burada tanımlıyoruz.
+    # Bu, betiğin oluşturduğu dosyanın depoya kaydedilmesi (commit/push) için gereklidir.
+    permissions:
+      contents: write
+
+    steps:
+      # Adım 1: Depodaki kodları çalışma ortamına indir
+      - name: Depo Kodlarını İndir
+        uses: actions/checkout@v4
+
+      # Adım 2: Python ortamını kur (örneğin 3.10)
+      - name: Python 3.10 Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      # Adım 3: Python için gerekli kütüphaneleri yükle
+      - name: Gerekli Kütüphaneleri Yükle
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # Adım 4: Otomatik veri çekme betiğini çalıştır
+      # 'SECRET_KEY' değerini GitHub'ın "Secrets" bölümünden güvenli bir şekilde alıyoruz.
+      # Bu, anahtarınızın kod içinde görünmesini engeller.
+      - name: Yayın Linklerini Çek ve Dosyaya Yaz
+        run: python otomatik_veri_cekme.py
+        env:
+          SECRET_KEY: ${{ secrets.YAYIN_SITESI_SECRET_KEY }}
+
+      # Adım 5: Oluşturulan dosyayı depoya kaydet ve gönder (commit & push)
+      - name: Güncellenmiş Yayın Listesini Depoya Yükle
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Sadece 'yayin_linkleri.json' dosyasında bir değişiklik varsa commit at
+          git add yayin_linkleri.json
+          git diff --quiet --staged || git commit -m "Yayındaki maç ve kanal linkleri güncellendi (otomatik)"
+          git push
