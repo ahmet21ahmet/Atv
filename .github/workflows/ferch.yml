@@ -1,52 +1,25 @@
-# Bu iş akışının adı
-name: Fetch HTML and Commit
+name: Fetch HTML
 
-# İş akışının ne zaman çalışacağını belirler
 on:
-  workflow_dispatch: # Manuel olarak Actions sekmesinden tetiklemeyi sağlar
-  schedule:
-    - cron: '0 4 * * 1' # Her Pazartesi sabaha karşı 4'te otomatik çalışır (isteğe bağlı)
+  workflow_dispatch:  # Manuel tetikleme
 
 jobs:
-  fetch-and-commit:
-    # İşin çalışacağı sanal sunucuyu belirler
+  fetch-html:
     runs-on: ubuntu-latest
 
-    # YENİ EKLENEN BÖLÜM: Bu işe depoya yazma izni verilir.
-    permissions:
-      contents: write
-
     steps:
-      # 1. Adım: Repodaki kodları sanal sunucuya indirir
-      - name: Depoyu Kopyala
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Adım: Python'ı kurar
-      - name: Python Kurulumu
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-      # 3. Adım: Gerekli Python kütüphanelerini ve Playwright tarayıcılarını kurar
-      - name: Bağımlılıkları Yükle
+      - name: Install dependencies
         run: |
-          pip install playwright
-          playwright install --with-deps
+          pip install requests playwright
+          playwright install
 
-      # 4. Adım: Python betiğini çalıştırarak HTML dosyasını oluşturur
-      - name: Kazıma Betiğini Çalıştır
-        run: python scraper.py # Betik adını kendi dosya adınızla eşleşecek şekilde güncelledim
-
-      # 5. Adım: Oluşturulan dosyayı depoya commit'ler ve push'lar
-      - name: Değişiklikleri Depoya Kaydet
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add diziyou_playwright.html
-          # Sadece bir değişiklik varsa commit at, boş commit'leri engelle
-          if ! git diff --staged --quiet; then
-            git commit -m "Otomatik Güncelleme: diziyou HTML içeriği yenilendi"
-            git push
-          else
-            echo "Kaydedilecek yeni bir değişiklik bulunamadı."
-          fi
+      - name: Run Python script
+        run: python a.py
