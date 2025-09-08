@@ -12,6 +12,10 @@ jobs:
     # İşin çalışacağı sanal sunucuyu belirler
     runs-on: ubuntu-latest
 
+    # YENİ EKLENEN BÖLÜM: Bu işe depoya yazma izni verilir.
+    permissions:
+      contents: write
+
     steps:
       # 1. Adım: Repodaki kodları sanal sunucuya indirir
       - name: Depoyu Kopyala
@@ -31,7 +35,7 @@ jobs:
 
       # 4. Adım: Python betiğini çalıştırarak HTML dosyasını oluşturur
       - name: Kazıma Betiğini Çalıştır
-        run: python a.py
+        run: python scraper.py # Betik adını kendi dosya adınızla eşleşecek şekilde güncelledim
 
       # 5. Adım: Oluşturulan dosyayı depoya commit'ler ve push'lar
       - name: Değişiklikleri Depoya Kaydet
