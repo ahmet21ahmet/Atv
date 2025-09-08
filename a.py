@@ -1,8 +1,8 @@
 import asyncio
 from playwright.async_api import async_playwright
 
-URL = "https://www.diziyou16.com/"
-OUTPUT_FILE = "diziyou_playwright.html"
+URL = "https://streambtw.com"
+OUTPUT_FILE = "stresmw.html"
 
 async def main():
     """
