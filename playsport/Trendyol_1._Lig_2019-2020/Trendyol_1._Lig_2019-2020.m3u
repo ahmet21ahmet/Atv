@@ -36,6 +36,42 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_2_ela_bolu_17agu&secure=1
 #EXTINF:-1 tvg-id="1056046" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326315.jpg" group-title="Trendyol 1. Lig 2019/2020",Eminevim Ümraniyespor  2-1 Adanaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_2_umr_ada_17agu&secure=1
+#EXTINF:-1 tvg-id="1056038" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326324.jpg" group-title="Trendyol 1. Lig 2019/2020",K.Karabükspor 1-1 Altınordu
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_krbk_alt_27agu&secure=1
+#EXTINF:-1 tvg-id="1056034" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326329.jpg" group-title="Trendyol 1. Lig 2019/2020",Adanaspor 0-2 Afjet Afyonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_ada_afy_26agu&secure=1
+#EXTINF:-1 tvg-id="1056035" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326328.jpg" group-title="Trendyol 1. Lig 2019/2020",Balıkesirspor 0-3 Ankaraspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_bal_osm_26agu&secure=1
+#EXTINF:-1 tvg-id="1056036" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326327.jpg" group-title="Trendyol 1. Lig 2019/2020",Gençlerbirliği 5-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_gb_esk_26agu&secure=1
+#EXTINF:-1 tvg-id="1056037" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326325.jpg" group-title="Trendyol 1. Lig 2019/2020",Bitexen Giresunspor 2-0 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_gir_ela_25agu&secure=1
+#EXTINF:-1 tvg-id="1056039" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326323.jpg" group-title="Trendyol 1. Lig 2019/2020",İstanbulspor 0-5 Altay
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_ist_alt_25agu&secure=1
+#EXTINF:-1 tvg-id="1015145" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326330.jpg" group-title="Trendyol 1. Lig 2019/2020",Gaziantep FK 0-1 Adana Demirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_gazi_ada_25agu&secure=1
+#EXTINF:-1 tvg-id="1015146" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326326.jpg" group-title="Trendyol 1. Lig 2019/2020",Altaş Denizlispor 0-0 Atakaş Hatayspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_den_hat_25agu&secure=1
+#EXTINF:-1 tvg-id="1015149" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326331.jpg" group-title="Trendyol 1. Lig 2019/2020",Boluspor  3-1 Eminevim Ümraniyespor 
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_3_bolu_umr_24agu&secure=1
+#EXTINF:-1 tvg-id="1056029" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326338.jpg" group-title="Trendyol 1. Lig 2019/2020",Adana Demirspor 2-2 İstanbulspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_ada_ist_2eylul&secure=1
+#EXTINF:-1 tvg-id="1015132" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326333.jpg" group-title="Trendyol 1. Lig 2019/2020",Altınordu 4-0 Altaş Denizlispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_altin_deniz_2eylul&secure=1
+#EXTINF:-1 tvg-id="1015134" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326337.jpg" group-title="Trendyol 1. Lig 2019/2020",Atakaş Hatayspor 0-1 Gaziantep FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_hat_gaz_2eylul&secure=1
+#EXTINF:-1 tvg-id="1056032" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326334.jpg" group-title="Trendyol 1. Lig 2019/2020",Altay 2-2 Adanaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_altay_adana_1eylul&secure=1
+#EXTINF:-1 tvg-id="1056031" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326335.jpg" group-title="Trendyol 1. Lig 2019/2020",B. Elazığspor 1-2 Balıkesirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_ela_bal_1eylul&secure=1
+#EXTINF:-1 tvg-id="1056030" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326336.jpg" group-title="Trendyol 1. Lig 2019/2020",Eskişehirspor 2-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_eski_krbk_1eylul&secure=1
+#EXTINF:-1 tvg-id="1015138" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326339.jpg" group-title="Trendyol 1. Lig 2019/2020",Eminevim Ümraniyespor  2-0 Bitexen Giresunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_umr_gir_1eylul&secure=1
+#EXTINF:-1 tvg-id="1056033" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326332.jpg" group-title="Trendyol 1. Lig 2019/2020",Ankaraspor 0-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_osm_gb_31agu&secure=1
+#EXTINF:-1 tvg-id="1015140" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326340_1.jpg" group-title="Trendyol 1. Lig 2019/2020",Afjet Afyonspor 0-1 Boluspor 
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_4_afy_bolu_31agu&secure=1
 #EXTINF:-1 tvg-id="1056024" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326347.jpg" group-title="Trendyol 1. Lig 2019/2020",Balıkesirspor 0-1 Eminevim Ümraniyespor 
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_5_balkes_umr_28kasim&secure=1
 #EXTINF:-1 tvg-id="1056025" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326346.jpg" group-title="Trendyol 1. Lig 2019/2020",Gençlerbirliği 3-1 B. Elazığspor
@@ -144,24 +180,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_10_altay_den_26ekim&secure=1
 #EXTINF:-1 tvg-id="1015087" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326388.jpg" group-title="Trendyol 1. Lig 2019/2020",Afjet Afyonspor 1-4 Gaziantep FK
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_10_af_gazi_26ekim&secure=1
-#EXTINF:-1 tvg-id="1055981" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326400.jpg" group-title="Trendyol 1. Lig 2019/2020",Gençlerbirliği 1-0 Bitexen Giresunspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_gb_gir_5kasim&secure=1
-#EXTINF:-1 tvg-id="1055984" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326397.jpg" group-title="Trendyol 1. Lig 2019/2020",İstanbulspor 3-0 Balıkesirspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_ist_balkes_5kasim&secure=1
-#EXTINF:-1 tvg-id="1055980" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326401.jpg" group-title="Trendyol 1. Lig 2019/2020",Eskişehirspor 1-0 Ankaraspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_eses_osm_4kasim&secure=1
-#EXTINF:-1 tvg-id="1055982" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326399.jpg" group-title="Trendyol 1. Lig 2019/2020",K.Karabükspor 0-2 Boluspor 
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_krbk_bolu_4kasim&secure=1
-#EXTINF:-1 tvg-id="1015073" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326402.jpg" group-title="Trendyol 1. Lig 2019/2020",Adana Demirspor 1-0 Afjet Afyonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_ada_af_4kasim&secure=1
-#EXTINF:-1 tvg-id="1015074" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326396.jpg" group-title="Trendyol 1. Lig 2019/2020",Atakaş Hatayspor 0-1 Eminevim Ümraniyespor 
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_hat_umr_4kasim&secure=1
-#EXTINF:-1 tvg-id="1055979" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326403.jpg" group-title="Trendyol 1. Lig 2019/2020",Gaziantep FK 3-0 Altay
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_gfk_alt_3kasim&secure=1
-#EXTINF:-1 tvg-id="1055983" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326398.jpg" group-title="Trendyol 1. Lig 2019/2020",Altaş Denizlispor 4-2 Adanaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_den_ada_3kasim&secure=1
-#EXTINF:-1 tvg-id="1055985" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326395.jpg" group-title="Trendyol 1. Lig 2019/2020",Altınordu 3-2 B. Elazığspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_11_ao_ela_2kasim&secure=1
 #EXTINF:-1 tvg-id="1055975" tvg-logo="https://media03.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Trendyol 1. Lig 2019/2020",Ankaraspor 1-0 İstanbulspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_12_osm_ist_11kasim&secure=1
 #EXTINF:-1 tvg-id="1055973" tvg-logo="https://media01.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Trendyol 1. Lig 2019/2020",Altay 3-0 Adana Demirspor
@@ -216,6 +234,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_14_bolu_ads_1aralik&secure=1
 #EXTINF:-1 tvg-id="1055961" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326429.jpg" group-title="Trendyol 1. Lig 2019/2020",Adanaspor 0-0 Atakaş Hatayspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_14_ada_hat_30kasim&secure=1
+#EXTINF:-1 tvg-id="1055954" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326438.jpg" group-title="Trendyol 1. Lig 2019/2020",Gaziantep FK 0-2 Balıkesirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_gaz_balkes_10aralik&secure=1
+#EXTINF:-1 tvg-id="1015033" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326433.jpg" group-title="Trendyol 1. Lig 2019/2020",Adana Demirspor 1-1 Bitexen Giresunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_ada_gir_10aralik&secure=1
+#EXTINF:-1 tvg-id="1055958" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326432.jpg" group-title="Trendyol 1. Lig 2019/2020",Eskişehirspor 1-0 Altay
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_esk_altay_9aralik&secure=1
+#EXTINF:-1 tvg-id="1055959" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326431.jpg" group-title="Trendyol 1. Lig 2019/2020",Altaş Denizlispor 0-0 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_den_gb_9aralik&secure=1
+#EXTINF:-1 tvg-id="1055953" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326439.jpg" group-title="Trendyol 1. Lig 2019/2020",Eminevim Ümraniyespor  2-1 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_umr_ela_9aralik&secure=1
+#EXTINF:-1 tvg-id="1015037" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326437.jpg" group-title="Trendyol 1. Lig 2019/2020",Atakaş Hatayspor 2-0 Boluspor 
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_hat_bolu_9aralik&secure=1
+#EXTINF:-1 tvg-id="1055955" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326436.jpg" group-title="Trendyol 1. Lig 2019/2020",Altınordu 2-0 Adanaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_alt_ada_8aralik&secure=1
+#EXTINF:-1 tvg-id="1055956" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326435.jpg" group-title="Trendyol 1. Lig 2019/2020",Ankaraspor 3-2 Afjet Afyonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_osm_afy_9aralik&secure=1
+#EXTINF:-1 tvg-id="1055957" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326434.jpg" group-title="Trendyol 1. Lig 2019/2020",K.Karabükspor 1-1 İstanbulspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_15_krbk_ist_8aralik&secure=1
 #EXTINF:-1 tvg-id="1055951" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326441.jpg" group-title="Trendyol 1. Lig 2019/2020",Adanaspor 2-0 Eskişehirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_16_ada_esk_16aralik&secure=1
 #EXTINF:-1 tvg-id="1055946" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326448.jpg" group-title="Trendyol 1. Lig 2019/2020",Altay 0-1 Ankaraspor
@@ -342,6 +378,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_22_hat_ada_16subat&secure=1
 #EXTINF:-1 tvg-id="1055908" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326499.jpg" group-title="Trendyol 1. Lig 2019/2020",B. Elazığspor 1-2 Gençlerbirliği
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_22_ela_gb_15subat&secure=1
+#EXTINF:-1 tvg-id="1055901" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326508.jpg" group-title="Trendyol 1. Lig 2019/2020",Gaziantep FK 1-1 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_gfk_esk_24subat&secure=1
+#EXTINF:-1 tvg-id="1055902" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326507.jpg" group-title="Trendyol 1. Lig 2019/2020",Altaş Denizlispor 0-2 Ankaraspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_den_osm_24subat&secure=1
+#EXTINF:-1 tvg-id="1055899" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326510.jpg" group-title="Trendyol 1. Lig 2019/2020",Bitexen Giresunspor 1-2 Altay
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_gir_alt_24subat&secure=1
+#EXTINF:-1 tvg-id="1055903" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326506.jpg" group-title="Trendyol 1. Lig 2019/2020",K.Karabükspor 1-3 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_krbk_ela_24subat&secure=1
+#EXTINF:-1 tvg-id="1055898" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326511.jpg" group-title="Trendyol 1. Lig 2019/2020",Gençlerbirliği 2-1 Eminevim Ümraniyespor 
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_gb_umr_23subat&secure=1
+#EXTINF:-1 tvg-id="1055900" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326509.jpg" group-title="Trendyol 1. Lig 2019/2020",Boluspor  0-1 Adanaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_bolu_adana_23subat&secure=1
+#EXTINF:-1 tvg-id="1014966" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326503.jpg" group-title="Trendyol 1. Lig 2019/2020",Adana Demirspor 3-0 Altınordu
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_admr_altin_23subat&secure=1
+#EXTINF:-1 tvg-id="1055904" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326505.jpg" group-title="Trendyol 1. Lig 2019/2020",Balıkesirspor 2-1 Afjet Afyonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_bal_af_22subat&secure=1
+#EXTINF:-1 tvg-id="1055905" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326504.jpg" group-title="Trendyol 1. Lig 2019/2020",İstanbulspor 0-3 Atakaş Hatayspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_23_ist_hat_22subat&secure=1
 #EXTINF:-1 tvg-id="1055896" tvg-logo="https://media02.tr.beinsports.com/img/highlights/ozet.jpg" group-title="Trendyol 1. Lig 2019/2020",Altay 1-0 Balıkesirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_24_altay_balkes_4mart&secure=1
 #EXTINF:-1 tvg-id="1055894" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326516.jpg" group-title="Trendyol 1. Lig 2019/2020",Afjet Afyonspor 0-0 Gençlerbirliği
@@ -486,42 +540,6 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_31_hty_ada_27nisan&secure=1
 #EXTINF:-1 tvg-id="1014896" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326580.jpg" group-title="Trendyol 1. Lig 2019/2020",Gaziantep FK 2-2 Bitexen Giresunspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_31_gazi_gir_27nisan&secure=1
-#EXTINF:-1 tvg-id="1055837" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326591.jpg" group-title="Trendyol 1. Lig 2019/2020",Balıkesirspor 1-2 Gaziantep FK
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_balkes_gfk_5mayis&secure=1
-#EXTINF:-1 tvg-id="1055842" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326584.jpg" group-title="Trendyol 1. Lig 2019/2020",Gençlerbirliği 0-3 Altaş Denizlispor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_gb_den_5mayis&secure=1
-#EXTINF:-1 tvg-id="1014882" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326586.jpg" group-title="Trendyol 1. Lig 2019/2020",Bitexen Giresunspor 1-0 Adana Demirspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_gir_ada_5mayis&secure=1
-#EXTINF:-1 tvg-id="1055839" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326588.jpg" group-title="Trendyol 1. Lig 2019/2020",Afjet Afyonspor 0-0 Ankaraspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_afy_osm_4mayis&secure=1
-#EXTINF:-1 tvg-id="1055841" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326585.jpg" group-title="Trendyol 1. Lig 2019/2020",Altay 2-1 Eskişehirspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_alt_esk_4mayis&secure=1
-#EXTINF:-1 tvg-id="1055836" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326592.jpeg" group-title="Trendyol 1. Lig 2019/2020",B. Elazığspor 3-3 Eminevim Ümraniyespor 
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_ela_umr_4mayis&secure=1
-#EXTINF:-1 tvg-id="1055840" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326587.jpg" group-title="Trendyol 1. Lig 2019/2020",İstanbulspor 1-0 K.Karabükspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_ist_kar_4mayis&secure=1
-#EXTINF:-1 tvg-id="1055838" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326589.jpg" group-title="Trendyol 1. Lig 2019/2020",Adanaspor 1-2 Altınordu
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_ada_alt_3mayis&secure=1
-#EXTINF:-1 tvg-id="1014888" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326590.jpg" group-title="Trendyol 1. Lig 2019/2020",Boluspor  1-4 Atakaş Hatayspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_32_bolu_hatay_3mayis&secure=1
-#EXTINF:-1 tvg-id="1055829" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326602.jpg" group-title="Trendyol 1. Lig 2019/2020",Ankaraspor 3-1 Altay
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_osm_alt_12mayis&secure=1
-#EXTINF:-1 tvg-id="1055830" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326599.jpg" group-title="Trendyol 1. Lig 2019/2020",Gaziantep FK 0-2 Gençlerbirliği
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_gazi_gb_12mayis&secure=1
-#EXTINF:-1 tvg-id="1055831" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326598.jpg" group-title="Trendyol 1. Lig 2019/2020",Altaş Denizlispor 6-0 K.Karabükspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_den_krbk_12mayis&secure=1
-#EXTINF:-1 tvg-id="1055833" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326596.jpg" group-title="Trendyol 1. Lig 2019/2020",Eminevim Ümraniyespor  1-3 İstanbulspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_umr_ist_12mayis&secure=1
-#EXTINF:-1 tvg-id="1055835" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326593.jpg" group-title="Trendyol 1. Lig 2019/2020",Adana Demirspor 2-0 Balıkesirspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_ada_bal_12mayis&secure=1
-#EXTINF:-1 tvg-id="1014872" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326600.jpg" group-title="Trendyol 1. Lig 2019/2020",Atakaş Hatayspor 1-0 Bitexen Giresunspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_hat_gir_12mayis&secure=1
-#EXTINF:-1 tvg-id="1014874" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111326601.jpg" group-title="Trendyol 1. Lig 2019/2020",Altınordu 3-0 Boluspor 
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_alt_bolu_12mayis&secure=1
-#EXTINF:-1 tvg-id="1055832" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111326597.jpg" group-title="Trendyol 1. Lig 2019/2020",B. Elazığspor 0-1 Afjet Afyonspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_ela_afy_11mayis&secure=1
-#EXTINF:-1 tvg-id="1055834" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326595.jpg" group-title="Trendyol 1. Lig 2019/2020",Eskişehirspor 0-3 Adanaspor
-https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_33_esk_ada_11mayis&secure=1
 #EXTINF:-1 tvg-id="1055822" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326610.jpg" group-title="Trendyol 1. Lig 2019/2020",Gençlerbirliği 1-2 Adana Demirspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20182019_34_gb_ads_18mayis&secure=1
 #EXTINF:-1 tvg-id="1055825" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111326607.png" group-title="Trendyol 1. Lig 2019/2020",Adanaspor 1-4 Ankaraspor
