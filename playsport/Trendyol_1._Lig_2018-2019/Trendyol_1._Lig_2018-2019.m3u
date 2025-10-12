@@ -282,6 +282,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_16_antep_den_16aralik&secure=1
 #EXTINF:-1 tvg-id="1056230" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262280.jpg" group-title="Trendyol 1. Lig 2018/2019",Balıkesirspor 1-0 Gaziantep FK
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_16_bal_gaz_15aralik&secure=1
+#EXTINF:-1 tvg-id="1056218" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262292.jpg" group-title="Trendyol 1. Lig 2018/2019",GM Manisaspor 3-1 Balıkesirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_man_balkes_24aralik&secure=1
+#EXTINF:-1 tvg-id="1056215" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262295.jpg" group-title="Trendyol 1. Lig 2018/2019",Altaş Denizlispor 1-1 Boluspor 
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_den_bolu_24aralik&secure=1
+#EXTINF:-1 tvg-id="1056214" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111262296.jpg" group-title="Trendyol 1. Lig 2018/2019",Erzurumspor FK 2-1 Altınordu
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_erz_alt_24aralik&secure=1
+#EXTINF:-1 tvg-id="1056221" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262289.jpg" group-title="Trendyol 1. Lig 2018/2019",Eminevim Ümraniyespor  4-2 Samsunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_umr_sam_24aralik&secure=1
+#EXTINF:-1 tvg-id="1056219" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111262291.jpg" group-title="Trendyol 1. Lig 2018/2019",Adana Demirspor 2-1 MKE Ankaragücü
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_ads_ank_23aralik&secure=1
+#EXTINF:-1 tvg-id="1056220" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111262290.jpg" group-title="Trendyol 1. Lig 2018/2019",Eskişehirspor 1-2 Adanaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_eses_ada_23aralik&secure=1
+#EXTINF:-1 tvg-id="1056217" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111262293.jpg" group-title="Trendyol 1. Lig 2018/2019",Gaziantep FK 1-2 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_gfk_rize_23aralik&secure=1
+#EXTINF:-1 tvg-id="1056222" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111262288.jpg" group-title="Trendyol 1. Lig 2018/2019",İstanbulspor 1-2 B. Elazığspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_ist_ela_23aralik&secure=1
+#EXTINF:-1 tvg-id="1056216" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111262294.jpg" group-title="Trendyol 1. Lig 2018/2019",Bitexen Giresunspor 2-0 Gaziantepspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_17_gir_antep_22aralik&secure=1
 #EXTINF:-1 tvg-id="1056209" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262301_1.jpg" group-title="Trendyol 1. Lig 2018/2019",Gaziantep FK 3-0 Samsunspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_18_gaz_sam_22ocak&secure=1
 #EXTINF:-1 tvg-id="1056210" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111262300.jpg" group-title="Trendyol 1. Lig 2018/2019",Altaş Denizlispor 3-1 Adanaspor
@@ -408,6 +426,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_24_balkes_sam_24subat&secure=1
 #EXTINF:-1 tvg-id="1056158" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262352.jpg" group-title="Trendyol 1. Lig 2018/2019",MKE Ankaragücü 4-0 Gaziantepspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_24_ank_antep_24subat&secure=1
+#EXTINF:-1 tvg-id="1056148" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111262362.jpg" group-title="Trendyol 1. Lig 2018/2019",Boluspor  3-1 MKE Ankaragücü
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_bolu_agu_4mart&secure=1
+#EXTINF:-1 tvg-id="1056150" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111262360.jpg" group-title="Trendyol 1. Lig 2018/2019",Adanaspor 1-3 Altınordu
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_ada_alt_4mart&secure=1
+#EXTINF:-1 tvg-id="1056142" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111262368.jpg" group-title="Trendyol 1. Lig 2018/2019",İstanbulspor 2-2 Erzurumspor FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_ist_erz_4mart&secure=1
+#EXTINF:-1 tvg-id="1056144" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111262366.jpg" group-title="Trendyol 1. Lig 2018/2019",Samsunspor 0-0 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_sam_rize_3mart&secure=1
+#EXTINF:-1 tvg-id="1056147" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111262363.jpg" group-title="Trendyol 1. Lig 2018/2019",Eskişehirspor 2-2 Adana Demirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_esk_ada_3mart&secure=1
+#EXTINF:-1 tvg-id="1056143" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262367.jpg" group-title="Trendyol 1. Lig 2018/2019",Gaziantepspor 1-3 Balıkesirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_antep_balkes_3mart&secure=1
+#EXTINF:-1 tvg-id="1056149" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262361_1.jpg" group-title="Trendyol 1. Lig 2018/2019",Altaş Denizlispor 2-2 GM Manisaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_den_man_3mart&secure=1
+#EXTINF:-1 tvg-id="1056145" tvg-logo="https://media02.tr.beinsports.com/img/highlights/111262365.jpg" group-title="Trendyol 1. Lig 2018/2019",B. Elazığspor 3-0 Eminevim Ümraniyespor 
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_ela_umr_2mart&secure=1
+#EXTINF:-1 tvg-id="1056146" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262364_1.jpg" group-title="Trendyol 1. Lig 2018/2019",Bitexen Giresunspor 4-1 Gaziantep FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_25_gir_gazi_2mart&secure=1
 #EXTINF:-1 tvg-id="1056137" tvg-logo="https://media03.tr.beinsports.com/img/highlights/111262373.png" group-title="Trendyol 1. Lig 2018/2019",MKE Ankaragücü 2-1 Adanaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ptt_20172018_26_ank_ada_9mart&secure=1
 #EXTINF:-1 tvg-id="1056138" tvg-logo="https://media01.tr.beinsports.com/img/highlights/111262372.jpg" group-title="Trendyol 1. Lig 2018/2019",Altınordu 3-1 İstanbulspor
