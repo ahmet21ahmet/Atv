@@ -144,6 +144,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_8_samsun_karabuk&secure=1
 #EXTINF:-1 tvg-id="17077" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1270.jpg" group-title="Süper Lig 2011/2012",Trabzonspor 2-2 Hesap.com Antalyaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_8_trabzon_antalya&secure=1
+#EXTINF:-1 tvg-id="1034970" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1291.jpg" group-title="Süper Lig 2011/2012",Fenerbahçe 1-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_fbahce_karabuk&secure=1
+#EXTINF:-1 tvg-id="1034971" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1292.jpg" group-title="Süper Lig 2011/2012",Mersin İY 2-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_mersin_gbirligi&secure=1
+#EXTINF:-1 tvg-id="19762" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1289.jpg" group-title="Süper Lig 2011/2012",Beşiktaş 3-1 Özbelsan Sivasspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_bjk_svs&secure=1
+#EXTINF:-1 tvg-id="25187" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1290.jpg" group-title="Süper Lig 2011/2012",MKE Ankaragücü 1-2 Rams Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_agucu_ibb&secure=1
+#EXTINF:-1 tvg-id="1014755" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1286.jpg" group-title="Süper Lig 2011/2012",Zecorner Kayserispor 0-2 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_kay_gs&secure=1
+#EXTINF:-1 tvg-id="1014757" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1287.jpg" group-title="Süper Lig 2011/2012",Bursaspor 0-0 GM Manisaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_bur_mns&secure=1
+#EXTINF:-1 tvg-id="1014756" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1283.jpg" group-title="Süper Lig 2011/2012",Eskişehirspor 1-0 Samsunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_eskisehir_samsun&secure=1
+#EXTINF:-1 tvg-id="1014759" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1284.jpg" group-title="Süper Lig 2011/2012",Gaziantepspor 0-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_gantep_ts&secure=1
+#EXTINF:-1 tvg-id="1014758" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1282.jpg" group-title="Süper Lig 2011/2012",Hesap.com Antalyaspor 1-1 Orduspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_9_ant_ord&secure=1
 #EXTINF:-1 tvg-id="1034969" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1319.jpg" group-title="Süper Lig 2011/2012",Gençlerbirliği 4-2 Beşiktaş
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_10_gbirligi_bjk&secure=1
 #EXTINF:-1 tvg-id="23227" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1316.jpg" group-title="Süper Lig 2011/2012",Trabzonspor 2-1 Zecorner Kayserispor
@@ -162,6 +180,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_10_samsun_agucu&secure=1
 #EXTINF:-1 tvg-id="4427" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1303.jpg" group-title="Süper Lig 2011/2012",Özbelsan Sivasspor 2-0 Fenerbahçe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_10_sivas_fenerbahce&secure=1
+#EXTINF:-1 tvg-id="1014751" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1350.jpg" group-title="Süper Lig 2011/2012",Bursaspor 1-0 Samsunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_bursa_samsun&secure=1
+#EXTINF:-1 tvg-id="1014754" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1349.jpg" group-title="Süper Lig 2011/2012",Beşiktaş 0-0 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_besiktas_galatasaray&secure=1
+#EXTINF:-1 tvg-id="1014747" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1347.jpg" group-title="Süper Lig 2011/2012",Gaziantepspor 1-1 GM Manisaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_gaziantep_manisa&secure=1
+#EXTINF:-1 tvg-id="1034966" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1346.jpg" group-title="Süper Lig 2011/2012",Özbelsan Sivasspor 1-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_svs_gb&secure=1
+#EXTINF:-1 tvg-id="41687" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1345.jpg" group-title="Süper Lig 2011/2012",Hesap.com Antalyaspor 2-1 Rams Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_ant_ibb&secure=1
+#EXTINF:-1 tvg-id="1014752" tvg-logo="https://media03.tr.beinsports.com/img/highlights/1343.jpg" group-title="Süper Lig 2011/2012",Fenerbahçe 1-0 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_fb_eskisehir&secure=1
+#EXTINF:-1 tvg-id="1014748" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1336.jpg" group-title="Süper Lig 2011/2012",Zecorner Kayserispor 1-0 Orduspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_kayseri_ordu&secure=1
+#EXTINF:-1 tvg-id="1034967" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1334.jpg" group-title="Süper Lig 2011/2012",MKE Ankaragücü 2-1 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_agu_krbk&secure=1
+#EXTINF:-1 tvg-id="1014753" tvg-logo="https://media01.tr.beinsports.com/img/highlights/1333.jpg" group-title="Süper Lig 2011/2012",Mersin İY 1-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_11_miy_ts&secure=1
 #EXTINF:-1 tvg-id="1034965" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1386.jpg" group-title="Süper Lig 2011/2012",K.Karabükspor 3-1 Bursaspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_12_krbk_bur&secure=1
 #EXTINF:-1 tvg-id="25732" tvg-logo="https://media02.tr.beinsports.com/img/highlights/1377.jpg" group-title="Süper Lig 2011/2012",Trabzonspor 0-1 Beşiktaş
@@ -468,6 +504,24 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_28_karabuk_agucu&secure=1
 #EXTINF:-1 tvg-id="1014633" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11680708.jpg" group-title="Süper Lig 2011/2012",Orduspor 1-0 Zecorner Kayserispor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_28_ordu_kayseri&secure=1
+#EXTINF:-1 tvg-id="27649" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11680714.jpg" group-title="Süper Lig 2011/2012",Özbelsan Sivasspor 0-4 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_sivas_gs&secure=1
+#EXTINF:-1 tvg-id="25735" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11680712.jpg" group-title="Süper Lig 2011/2012",Beşiktaş 1-2 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_besiktas_trabzon&secure=1
+#EXTINF:-1 tvg-id="1014625" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11680718.jpg" group-title="Süper Lig 2011/2012",Zecorner Kayserispor 2-0 GM Manisaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_kayseri_manisa&secure=1
+#EXTINF:-1 tvg-id="1014630" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11680711.jpg" group-title="Süper Lig 2011/2012",Gaziantepspor 5-0 Rams Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_antep_ibb&secure=1
+#EXTINF:-1 tvg-id="1034932" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11680710.jpg" group-title="Süper Lig 2011/2012",Bursaspor 3-0 K.Karabükspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_bursa_karabuk&secure=1
+#EXTINF:-1 tvg-id="1034931" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11680715.jpg" group-title="Süper Lig 2011/2012",Fenerbahçe 6-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_fb_gb&secure=1
+#EXTINF:-1 tvg-id="1014626" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11680717.jpg" group-title="Süper Lig 2011/2012",Hesap.com Antalyaspor 0-2 Samsunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_ant_sam&secure=1
+#EXTINF:-1 tvg-id="1014629" tvg-logo="https://media03.tr.beinsports.com/img/highlights/11680713.jpg" group-title="Süper Lig 2011/2012",Mersin İY 1-0 Orduspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_miy_ordu&secure=1
+#EXTINF:-1 tvg-id="1014627" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11680716.jpg" group-title="Süper Lig 2011/2012",MKE Ankaragücü 2-5 Eskişehirspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_29_agucu_esehir&secure=1
 #EXTINF:-1 tvg-id="35289" tvg-logo="https://media01.tr.beinsports.com/img/highlights/11680724.jpg" group-title="Süper Lig 2011/2012",Trabzonspor 2-1 Özbelsan Sivasspor
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20112012_30_ts_svsyeni&secure=1
 #EXTINF:-1 tvg-id="1014622" tvg-logo="https://media02.tr.beinsports.com/img/highlights/11680722.jpg" group-title="Süper Lig 2011/2012",Eskişehirspor 1-1 Bursaspor
